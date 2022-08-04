@@ -1,0 +1,43 @@
+.box {
+    width: 50px;
+    height: 50px;
+    padding: 50px;
+    /* crescer de dentro pra fora/espaçamento de dentro pra fora*/
+    background-color: indigo;
+
+}
+
+.box-2 {
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    margin: 20px;
+    /* espaçamento de outras coisa */
+/*margin-top: ;cima
+margin-bottom: ; baixo
+margin-left: ; esquerda 
+margin-right: ; direita*/
+
+/*margin: 10px 20px 30px 40px;
+margem relogio respectivamente 12h 15h 18h 21h*/
+
+/*pode usar as mesmas regras para o padding */
+
+}
+
+    *{
+        box-sizing: border-box;
+        /* caixa sempre do mesmo tamanho */
+        /* box-sizing: content-box;
+        caixa crescendo de acordo com os codigos */
+    }
+.box{
+    width: 50px;
+    height: 50px;
+    background-color: darkorange;
+    padding: 20px;
+    border: 10px dashed rgb(34, 255, 0);
+
+}
+
+/* box sizing */

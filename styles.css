@@ -1,0 +1,79 @@
+h1 {
+    color: rgb(0, 0, 0);
+    background: rgb(8, 0, 255);
+}
+
+/* cor da letra/cor do fundo da letra */
+p {
+    color: blue;
+    font-size: 20px;
+}
+
+/* tamanho da fonte */
+button {
+    color: chartreuse;
+    background: black;
+    border-color: azure;
+}
+
+* {
+    color: rgb(56, 178, 32);
+}
+
+/* cor do site inteiro */
+
+#Title {
+    color: aqua;
+}
+
+#paragrafo {
+    color: rgb(255, 0, 0);
+    font-size: 55px;
+    font-weight: bold;
+}
+
+/* tamanho da fonte/grossura da fonte */
+
+#botao {
+    background: gray;
+}
+
+#botao {
+    background-color: black;
+}
+
+.botao {
+    color: rgb(252, 255, 93);
+
+}
+
+/* RGB de cores */
+/* 
+CSS 
+folha em estilo cascata sempre vai prevalecer a ultima cor*/
+
+h1 {
+    background: #000000;
+}
+
+/* codigo de cores */
+
+/* UNIDADE DE MEDIDA
+    ABSOLUTAS
+      px (pixels) Vai ser o mais usado
+      in(inches/polegadas)
+      cm/mm(centimetro/milimetro)
+
+    RELATIVAS
+      % calcula o tamanho relativo ao sub-elemento 
+      vw(view width) 1 vw é 1% da largura da janela do navegador
+      vh(view heigth) 1 vw é 1% da largura da janela do navegador
+      em /é uma unidade relativa ao sub-elemento 
+      rem /é uma unidade relativa ao elemento raiz
+
+      Adaptações
+
+      EFEITO CASCATA DE NOVO
+
+
+*/

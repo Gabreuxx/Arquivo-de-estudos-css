@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100&display=swap');
+
+h1 {
+    color: #ff0000;
+    font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+    text-shadow: 10px 10px 10px #ff0000; /*sombra da palavra/tanto de sombra horizontal/sobra vertical/fumaça da sombra/cor da sombra*/
+
+}
+
+p {
+    color: blue;   
+    font-size: 40px; /*tamanho da fonte */
+    font-weight: 10; /*largura da fonte*/
+    font-family: 'Roboto', sans-serif; /*escolher fonte,podendo pegar qualquer fonte,colocando por html ou css*/
+    font-style: italic; /*estilo de fonte*/
+    line-height: 50px; /*distancia da letra em cada linha*/
+    letter-spacing: 10px; /*espaçamento entre as letras*/
+    word-spacing: 20px; /* espaçamento entre as palavras*/
+    text-align: center; /*alinhamento do texto*/
+    text-transform: uppercase; /* deixar as letras maiusculas*/
+    text-transform: lowercase; /*letras minusculas*/
+    text-transform: capitalize; /*primeira letra maiuscula de todas as palavras*/
+    text-decoration: underline; /*todo o texto com underline*/
+    text-decoration: overline; /*underline em cima da palavra*/
+
+    /* FORMA CASCATA */
+    
+}
