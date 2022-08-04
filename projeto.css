@@ -83,7 +83,13 @@ p {
 
 }
 
+video{
 
+    height: 500px;
+    width: 500px;
+    display: block;
+    margin: 10px 0 0 -601px;
+}
 
 
 
